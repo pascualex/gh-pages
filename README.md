@@ -1,3 +1,3 @@
-# github.io
+# GitHub Pages
 
 My personal website.
