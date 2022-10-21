@@ -1,11 +1,9 @@
 <script lang="ts">
-  import Counter from './lib/Counter.svelte';
+  import Profile from "./lib/Profile.svelte";
 </script>
 
 <main>
-  <div class="card">
-    <Counter />
-  </div>
+  <Profile/>
 </main>
 
 <style>
