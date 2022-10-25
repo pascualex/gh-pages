@@ -1,9 +1,9 @@
 <script lang="ts">
-  import Profile from "./lib/Profile.svelte";
+  import AboutMe from "./lib/AboutMe.svelte";
 </script>
 
 <main>
-  <Profile/>
+  <AboutMe/>
 </main>
 
 <style>
