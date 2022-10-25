@@ -3,7 +3,7 @@
 
 <div class="about-me">
   <div class="card main">
-    <img class="portrait" src="src/assets/portrait.png" alt="Portrait"/>
+    <img class="portrait" src="./assets/portrait.png" alt="Portrait"/>
     <div>
       <p class="presentation">
         Hey! I'm Alejandro and I love using modern tools to build reliable and efficient solutions to challenging problems.

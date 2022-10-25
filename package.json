@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build; cp ./assets/* ./dist/assets",
     "deploy": "node ./gh-pages.js"
   },
   "devDependencies": {
