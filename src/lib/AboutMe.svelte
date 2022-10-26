@@ -6,8 +6,8 @@
     <img src="./assets/portrait.png" alt="Portrait" class="portrait"/>
     <div>
       <p class="presentation">
-        Hey! I'm Alejandro and I love using modern tools to build reliable and efficient solutions to challenging problems.
-        My current focus is to expand as much as I can my game development knowledge.
+        Hey! I'm Alejandro and I love using modern tools to build reliable and efficient software.
+        My current focus is to expand as much as I can my knowledge of game development.
       </p>
     </div>
   </div>
