@@ -15,7 +15,7 @@
     <a href="." class="card link blog">
       Check out my blog
     </a>
-    <a href="https:/www.github.com/pascualex" class="card link github">
+    <a href="https://www.github.com/pascualex" class="card link github">
       GitHub
     </a>
     <a href="https://twitter.com/Pascualex22" class="card link twitter">
