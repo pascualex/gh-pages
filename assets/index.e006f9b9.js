@@ -2,5 +2,5 @@
     <div><p class="presentation">Hey! I&#39;m Alejandro and I love using modern tools to build reliable and efficient software.
         My current focus is to expand as much as I can my knowledge of game development.</p></div></div> 
   <div class="links svelte-dg2cky"><a href="." class="card link blog svelte-dg2cky">Check out my blog</a> 
-    <a href="https:/www.github.com/pascualex" class="card link github svelte-dg2cky">GitHub</a> 
+    <a href="https://www.github.com/pascualex" class="card link github svelte-dg2cky">GitHub</a> 
     <a href="https://twitter.com/Pascualex22" class="card link twitter svelte-dg2cky">Twitter</a></div>`,K(t,"class","about-me svelte-dg2cky")},m(n,o){N(n,t,o)},p:u,i:u,o:u,d(n){n&&v(t)}}}class Y extends q{constructor(t){super(),T(this,t,null,X,I,{})}}function Z(e){let t,n,o;return n=new Y({}),{c(){t=P("main"),V(n.$$.fragment)},m(r,s){N(r,t,s),H(n,t,null),o=!0},p:u,i(r){o||(C(n.$$.fragment,r),o=!0)},o(r){U(n.$$.fragment,r),o=!1},d(r){r&&v(t),B(n)}}}class ee extends q{constructor(t){super(),T(this,t,null,Z,I,{})}}new ee({target:document.getElementById("app")});
